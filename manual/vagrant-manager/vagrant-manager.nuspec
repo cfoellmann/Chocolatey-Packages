@@ -15,11 +15,10 @@
     <copyright>Copyright (c) 2014 Lanayo Technology</copyright>
     <licenseUrl>https://github.com/lanayotech/vagrant-manager-windows/blob/develop/LICENSE.md</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!-- Important note about https://cdn.rawgit.com: Files are cached permanently after the first request. Use commit URLs when updating the icon. -->
-    <!--<iconUrl>http://cdn.rawgit.com/cfoellmann/chocolatey-packages/master/icons/vagrant-manager.png</iconUrl>-->
-    <!--<dependencies>
-      <dependency id="" version="{{PackageVersion}}" />
-    </dependencies>-->
+    <iconUrl>http://cdn.rawgit.com/cfoellmann/chocolatey-packages/master/icons/vagrant.png</iconUrl>
+    <dependencies>
+      <dependency id="vagrant" />
+    </dependencies>
     <releaseNotes></releaseNotes>
   </metadata>
   <files>
