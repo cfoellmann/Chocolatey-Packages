@@ -15,7 +15,7 @@
     <copyright>Copyright (c) 2014 Lanayo Technology</copyright>
     <licenseUrl>https://github.com/lanayotech/vagrant-manager-windows/blob/develop/LICENSE.md</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://cdn.rawgit.com/cfoellmann/chocolatey-packages/master/icons/vagrant.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/cfoellmann/chocolatey-packages/master/icons/vagrant.png</iconUrl>
     <dependencies>
       <dependency id="vagrant" />
     </dependencies>
