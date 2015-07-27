@@ -1,5 +1,5 @@
 $packageName = 'renamer.portable'
-$url = 'https://dl.dropboxusercontent.com/u/22096967/renamer-6.2.zip'
+$url = 'http://www.den4b.com/?x=get&product=renamer&type=archive&version=6.2&token=chocolatey'
 
 try {
   $installDir = Join-Path $(Get-BinRoot) "renamer"
