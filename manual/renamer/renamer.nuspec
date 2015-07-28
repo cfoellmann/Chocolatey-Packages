@@ -18,9 +18,7 @@ It allows you to combine multiple renaming actions as a rule set, applying each 
     <licenseUrl>http://www.den4b.com/?x=license</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/cfoellmann/chocolatey-packages/master/icons/renamer.png</iconUrl>
-    <dependencies>
-      <dependency id="renamer.install" version="6.2" />
-    </dependencies>
+    <dependencies></dependencies>
     <releaseNotes></releaseNotes>
   </metadata>
   <files>
