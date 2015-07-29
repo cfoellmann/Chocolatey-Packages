@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>renamer</id>
-    <title>ReNamer</title>
+    <title>ReNamer (Install)</title>
     <version>6.2</version>
     <authors>Denis Kozlov, Furious Technologies Limited</authors>
     <owners>Christian Foellmann</owners>
