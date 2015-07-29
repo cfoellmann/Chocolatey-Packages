@@ -14,3 +14,6 @@ _ReSharper*
 *.nupkg
 Thumbs.db
 .DS_Store
+
+# Ignore Ketarin executables
+.ketarin/*
