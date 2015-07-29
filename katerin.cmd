@@ -1,0 +1,1 @@
+start .\.ketarin\Ketarin.exe /database="../jobs.db"
