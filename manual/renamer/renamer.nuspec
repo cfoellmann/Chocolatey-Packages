@@ -5,13 +5,13 @@
     <title>ReNamer (Install)</title>
     <version>6.2</version>
     <authors>Denis Kozlov, Furious Technologies Limited</authors>
-    <owners>Christian Foellmann</owners>
+    <owners>cfoellmann, den4b</owners>
     <summary>A very powerful and flexible file renaming tool</summary>
     <description>
 ReNamer is a very powerful and flexible file renaming tool, which offers all the standard renaming procedures, including prefixes, suffixes, replacements, case changes, as well as removing contents of brackets, adding number sequences, changing file extensions, etc. For advanced users there is support for Regular Expressions and a PascalScript rule, which lets users program their very own renaming rule.
 
 It allows you to combine multiple renaming actions as a rule set, applying each action in a logical sequence, which can be saved, loaded, and managed within the program. In addition, it has an ability to rename folders, process regular expressions, Unicode capable, and supports variety of meta tags, such as: ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, and SHA1.</description>
-    <projectUrl>http://www.den4b.com/</projectUrl>
+    <projectUrl>http://www.den4b.com/?x=products&amp;product=renamer</projectUrl>
 	<docsUrl>http://www.den4b.com/wiki/ReNamer</docsUrl>
     <tags>rename naming replace</tags>
     <copyright>Copyright 2004-2015 Denis Kozlov, Furious Technologies Limited.</copyright>
