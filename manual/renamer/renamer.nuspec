@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>renamer</id>
-    <title>ReNamer (Install)</title>
+    <title>ReNamer</title>
     <version>6.2</version>
     <authors>Denis Kozlov, Furious Technologies Limited</authors>
     <owners>cfoellmann, den4b</owners>
@@ -18,7 +18,9 @@ It allows you to combine multiple renaming actions as a rule set, applying each 
     <licenseUrl>http://www.den4b.com/?x=license</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/cfoellmann/chocolatey-packages/master/icons/renamer.png</iconUrl>
-    <dependencies></dependencies>
+    <dependencies>
+		<dependency id="renamer.install" version="6.2" />
+	</dependencies>
     <releaseNotes></releaseNotes>
   </metadata>
   <files>
