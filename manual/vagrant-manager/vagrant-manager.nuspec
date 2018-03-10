@@ -5,14 +5,14 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>vagrant-manager</id>
     <title>Vagrant Manager</title>
-    <version>1.0.0.3</version>
+    <version>1.0.0.6</version>
     <authors>Lanayo Technology</authors>
     <owners>Christian Foellmann</owners>
     <summary>Manage your vagrant machines in one place with Vagrant Manager for Windows</summary>
     <description>Vagrant Manager is a Windows status bar menu app that lets you manage all of your vagrant machines from one central location.</description>
     <projectUrl>http://vagrantmanager.com/windows/</projectUrl>
     <tags>vagrant admin</tags>
-    <copyright>Copyright (c) 2014 Lanayo Technology</copyright>
+    <copyright>Copyright (c) 2018 Lanayo Technology</copyright>
     <licenseUrl>https://github.com/lanayotech/vagrant-manager-windows/blob/develop/LICENSE.md</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/cfoellmann/chocolatey-packages/master/icons/vagrant.png</iconUrl>
